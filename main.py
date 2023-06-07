@@ -4,7 +4,7 @@
 
 def main():
     print("hello world")
-
+    print("hello from kate")
 
 if __name__ == '__main__':
     main()
