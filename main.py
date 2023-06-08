@@ -3,8 +3,7 @@
 # Kate Liggio and Rich Pihlstrom
 
 def main():
-    print("hello worl")
-    print("hello")
+     print("hello")
 
 if __name__ == '__main__':
     main()
